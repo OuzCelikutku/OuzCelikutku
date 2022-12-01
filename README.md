@@ -7,7 +7,7 @@
 I have been developing myself in the field of cybersecurity for many years and I continue to do so. First of all, when playing with Atari-2600 as a child, I used to try to find bugs/errors in games (If I'm not mistaken, the year should be 1989-1990). Thanks to these errors/bugs I found, I would try to finish the games I played. In the following years, I owned Commodore-64 and Amiga-1200. I was still trying to find bugs/errors in the games I was playing and to finish the games that way. In the following years, I became acquainted with computers and the Internet. In this way, I started to research programming/software languages and learn on my own. However, no matter how much I wanted to, I could not study in high school or university in the computer department. Therefore, I continued to learn on my own and improve myself. Although I do not have a diploma or any certificate from any school at the moment, I can please the people in front of me by working as a freelancer. You can contact or follow me through the links below. If you'd like to see what I'm doing for my personal growth, you can also check out my other GitHub profile.
   
 ### I'm Listening :
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dx5wa2m1x1gwxj4m2ij8jexbj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dx5wa2m1x1gwxj4m2ij8jexbj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/dx5wa2m1x1gwxj4m2ij8jexbj) <a href="#"><img alt="music" height="120" src="https://github.com/OuzCelikutku/OuzCelikutku/blob/master/gifs/music.gif">
    
 <!--          LINKS LINE          -->
 <table class="center">
@@ -64,7 +64,7 @@ I have been developing myself in the field of cybersecurity for many years and I
 <td><a href="#"><img alt="sql" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>
 </tr>
 </table>
-  
+ 
 <!--          YOUTUBE LINE          --> 
 ## <b> Youtube Videos : </b>
   
