@@ -19,7 +19,7 @@ I have been developing myself in the field of cybersecurity for many years and I
 <a target="blank" href="https://join.skype.com/invite/j2ho1vVuTHv7"><img align="center" height="30" src="https://github.com/OuzCelikutku/OuzCelikutku/blob/master/icons/skype.png" /></a>
 <a target="blank" href="https://discord.com/users/1045121857143177317"><img align="center" height="30" src="https://github.com/OuzCelikutku/OuzCelikutku/blob/master/icons/discord.png" /></a>
 <a target="blank" href="https://www.tiktok.com/@cy83rp5ych0"><img align="center" height="30" src="https://github.com/OuzCelikutku/OuzCelikutku/blob/master/icons/tiktok.png" /></a>
-<a target="blank" href="https://www.linkedin.com/in/o%C4%9Fuz-%C3%A7elikutku351912/"><img align="center" height="30" src="https://github.com/OuzCelikutku/OuzCelikutku/blob/master/icons/linkedin.png" /></a>
+<a target="blank" href="https://www.linkedin.com/in/oguzcelikutku351912/"><img align="center" height="30" src="https://github.com/OuzCelikutku/OuzCelikutku/blob/master/icons/linkedin.png" /></a>
 <a target="blank" href="https://github.com/JokerSob"><img align="center" height="30" src="https://github.com/OuzCelikutku/OuzCelikutku/blob/master/icons/github.png" /></a>
 <a target="blank" href="mailto:o.celikutku@outlook.com"><img align="center" height="30" src="https://github.com/OuzCelikutku/OuzCelikutku/blob/master/icons/mail.png" /></a>
 </p>
